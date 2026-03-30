@@ -30,6 +30,7 @@
         "drupal/matomo": "^1.25",
         "drupal/migrate_plus": "^6.0",
         "drupal/migrate_tools": "^6.1",
+        "drupal/nava": "^1.0",
         "drupal/rdf": "^3.0@beta",
         "drupal/scheduled_maintenance": "^2.0",
         "drupal/spambot": "^1.4",
